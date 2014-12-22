@@ -15,7 +15,7 @@ setup(
     long_description=open('README.txt').read(),
     zip_safe=False,
     install_requires=[
-        "Django >= 1.4,< 1.5",
+        "Django >= 1.4",
         "ims-lti-py == 0.6",
     ],
 )
